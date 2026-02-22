@@ -26,7 +26,7 @@ Incluye **Home** y **4 ejercicios** que aplican fundamentos de programación: va
 ## Enlaces
 
 - **Repositorio GitHub**: https://github.com/jean-amaya/JEANCARLOS_AMAYA.git
-- **Aplicación en Streamlit Cloud**: 
+- **Aplicación en Streamlit Cloud**: https://jeancarlosamaya-quispe.streamlit.app/
 
 ---
 
